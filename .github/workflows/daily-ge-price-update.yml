@@ -1,0 +1,62 @@
+name: Daily GE price update
+
+on:
+  schedule:
+    # 9:00 AM Pacific (handles PST/PDT via America/Los_Angeles)
+    - cron: "0 9 * * *"
+      timezone: America/Los_Angeles
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Refresh money-making guide prices
+        run: python scripts/update-money-making-prices.py
+
+      - name: Commit price updates
+        id: commit
+        run: |
+          if git diff --quiet money-making.md; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No price changes to commit."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add money-making.md
+            git commit -m "chore: daily GE price refresh for money-making guide"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Build site
+        run: npm run docs:build
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy .vitepress/dist --project-name=rs3-guides --branch=main
