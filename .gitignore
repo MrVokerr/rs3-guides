@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# VitePress build
+.vitepress/dist/
+.vitepress/cache/
+
+# Cloudflare / Wrangler local state
+.wrangler/
+.dev.vars
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+
+# Agent scratch (local only)
+_agent_memory/
+.agent_memory_local/
+
+# Local tooling scratch
+write_site.py
