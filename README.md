@@ -1,6 +1,6 @@
 # RS3 Guides
 
-> **Canonical repo:** `F:\Projects\RS3 guides`  
+> **Canonical repo:** [github.com/MrVokerr/rs3-guides](https://github.com/MrVokerr/rs3-guides) · `F:\Projects\RS3 guides`  
 > **Live site:** [https://rs3-guides.pages.dev](https://rs3-guides.pages.dev)  
 > **Stack:** VitePress → Cloudflare Pages (`rs3-guides`)
 
@@ -65,11 +65,22 @@ npm run prices:deploy    # refresh + build + deploy
 
 **Option A — GitHub Actions (recommended for hands-off deploy)**
 
-1. Push this repo to GitHub.
-2. In the repo: **Settings → Secrets and variables → Actions**, add:
-   - `CLOUDFLARE_API_TOKEN` — Cloudflare API token with **Cloudflare Pages — Edit** permission
-   - `CLOUDFLARE_ACCOUNT_ID` — from Cloudflare dashboard (Workers & Pages → right sidebar)
-3. Workflow: `.github/workflows/daily-ge-price-update.yml` runs **every day at 9:00 AM America/Los_Angeles** (PST/PDT), commits price changes if any, builds, and deploys.
+**One-time setup:**
+
+1. Repo: [github.com/MrVokerr/rs3-guides](https://github.com/MrVokerr/rs3-guides) (already pushed).
+2. GitHub secret `CLOUDFLARE_ACCOUNT_ID` — **already set** in repo secrets.
+3. GitHub secret `CLOUDFLARE_API_TOKEN` — **add this once:**
+   - Cloudflare Dashboard → **My Profile** → **API Tokens** → **Create Token**
+   - Use template **Edit Cloudflare Workers** or custom token with **Account → Cloudflare Pages → Edit**
+   - Then run:
+   ```powershell
+   cd "F:\Projects\RS3 guides"
+   gh secret set CLOUDFLARE_API_TOKEN
+   ```
+   (paste token when prompted; input is hidden)
+4. Test: GitHub **Actions** → **Daily GE price update** → **Run workflow**
+
+Workflow `.github/workflows/daily-ge-price-update.yml` runs **every day at 9:00 AM America/Los_Angeles** (PST/PDT), commits price changes if any, builds, and deploys.
 
 **Option B — Windows Task Scheduler (local machine)**
 
