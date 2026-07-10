@@ -1,5 +1,5 @@
 # 🪙 RS3 Fresh Account Money Making Guide (July 2026)
-> Last updated: **July 9, 2026** | Prices verified against [RS Wiki GE data](https://runescape.wiki/w/Module:GEPrices/data.json) and [Money making guide](https://runescape.wiki/w/Money_making_guide) rates.
+> Last updated: **July 10, 2026** | Prices verified against [RS Wiki GE data](https://runescape.wiki/w/Module:GEPrices/data.json) and [Money making guide](https://runescape.wiki/w/Money_making_guide) rates.
 
 ---
 
@@ -31,33 +31,33 @@ The RS3 economy shifted massively in early-to-mid 2026. Before diving into metho
 
 These methods require no stats, no starting capital, and work in Free-to-Play.
 
-### 1. Slaying Cows in Burthorpe (~957k GP/hour)
+### 1. Slaying Cows in Burthorpe (~955k GP/hour)
 * **Location:** Burthorpe / Taverley cow pen (north of the Taverley lodestone — NOT Lumbridge).
 * **Why Burthorpe?** The gnome banker is significantly closer than Lumbridge's cow pen.
-* **Collect:** Cowhides (~656 GP) + Raw Beef (~944 GP). Bones (~207 GP) are optional — burying them frees inventory for more hides/beef.
-* **Wiki rate:** ~540 kills/hr ≈ **~957k GP/hr** after tax. after tax. after tax. after tax.
+* **Collect:** Cowhides (~656 GP) + Raw Beef (~948 GP). Bones (~198 GP) are optional — burying them frees inventory for more hides/beef.
+* **Wiki rate:** ~540 kills/hr ≈ **~955k GP/hr** after tax. after tax. after tax. after tax. after tax.
 * **Bonus:** Raw Beef can later be cooked into Sinews for more profit (see Phase 2).
 
 ### 2. Draynor Cabbage Picking (~1.5M GP/hour)
 * **Location:** Cabbage field south of the Draynor Village farming patch.
 * **Method:** Harvest cabbages (~1,417 GP each), bank at Draynor (F2P) or use Explorer's Ring cabbage-port + War's Retreat bank (members, faster).
-* **Wiki rate:** ~1,100 cabbages/hr ≈ **~1.5M GP/hr** after tax. after tax. after tax. after tax. Consistent demand from Player-Owned Farms and questing.
+* **Wiki rate:** ~1,100 cabbages/hr ≈ **~1.5M GP/hr** after tax. after tax. after tax. after tax. after tax. Consistent demand from Player-Owned Farms and questing.
 
 ### 3. Spell Wisps at Wizard's Tower (~1M – 1.2M GP/hour)
 * **Location:** Outside the Wizard's Tower (south of Draynor Village).
-* **Method:** Kill Spell Wisps. Guaranteed drop: **Impious Ashes** (~1,818 GP each).
+* **Method:** Kill Spell Wisps. Guaranteed drop: **Impious Ashes** (~1,834 GP each).
 * **Banking:** Use the deposit NPC standing outside the tower — no walking back to Draynor needed.
 * **Note:** Ash prices fluctuate; always check the live GE price before committing a long session.
 
 ### 4. Archaeology Material Farming (F2P, Capped at Level 20)
 * **Location:** Kharid-et digsite.
-* **Method:** Excavate low-level spots. Collect materials such as **Third Age Iron** (~2,483 GP), **Goldrune** (~2,325 GP), **Samite Silk** (~2,262 GP), and **Zarosian Insignia** (~4,591 GP). Fully AFK — just click and wait.
+* **Method:** Excavate low-level spots. Collect materials such as **Third Age Iron** (~2,494 GP), **Goldrune** (~2,325 GP), **Samite Silk** (~2,229 GP), and **Zarosian Insignia** (~4,591 GP). Fully AFK — just click and wait.
 * **Banking:** Use the bank chest at the top of the digsite.
 * **Note:** Material prices cooled from the Combat Modernisation launch spike earlier in 2026, but this remains solid passive income.
 
 ### 5. Mining Clay (F2P, Better Than Gem Rocks)
 * **Location:** Burthorpe mines (southwest of the bank).
-* **Method:** Mine clay (~1,014 GP) and sell on the GE. Equip a **Bracelet of Clay** to automatically soften it into soft clay (~1,462 GP) for higher value.
+* **Method:** Mine clay (~1,014 GP) and sell on the GE. Equip a **Bracelet of Clay** to automatically soften it into soft clay (~1,415 GP) for higher value.
 * **Wiki rate:** ~940 clay/hr ≈ **~934k GP/hr**; with bracelets ≈ **~1.3M GP/hr**.
 * **Why not Gem Rocks?** Gem rocks have a 1min 25s respawn timer shared with other players. Clay is faster and more consistent.
 * **P2P upgrade:** Soft clay in Prifddinas (Ithell, 75 Mining + Plague's End) is ~**4.2M GP/hr** — revisit once unlocked.
@@ -68,16 +68,16 @@ These methods require no stats, no starting capital, and work in Free-to-Play.
 
 Once you have some starter GP, these processing methods scale your income dramatically.
 
-### 1. Tanning Dragonhides (~7M – ~19M GP/hour)
+### 1. Tanning Dragonhides (~7M – ~18M GP/hour)
 * **Requirements:** Level 1 Crafting (any hide type works)
 * **Intensity:** High click rate (most profitable active method at low levels)
-* **Current margins (July 9, 2026):**
+* **Current margins (July 10, 2026):**
 
 | Hide | Hide Price | Leather Price | Profit/ea (after tax + tan fee) | ~40k/hr | ~60k/hr |
 |---|---|---|---|---|---|
 | Green | 587 | 798 | ~175 | ~7M | ~11M |
-| Blue | 966 | 1,219 | ~209 | ~8.3M | ~13M |
-| Black | 1,654 | 2,031 | ~316 | ~13M | ~19M |
+| Blue | 930 | 1,219 | ~245 | ~9.8M | ~15M |
+| Black | 1,671 | 2,036 | ~304 | ~12M | ~18M |
 
 * **Method:**
   1. Set up a bank preset: full inventory (28) of dragonhides.
@@ -90,7 +90,7 @@ Once you have some starter GP, these processing methods scale your income dramat
 
 ### 2. Cooking Raw Beef into Sinews (~2M – 2.7M GP/hour)
 * **Requirements:** Level 1 Cooking
-* **Current prices:** Raw Beef ~944 GP → Sinew ~**2,479 GP** (~1,485 GP profit after tax).
+* **Current prices:** Raw Beef ~948 GP → Sinew ~**2,479 GP** (~1,481 GP profit after tax).
 * **Method:** Buy raw beef on the GE → use on a range and choose **Make sinew** (not cook). Lumbridge Castle kitchen works well.
 * **Why it works:** Sinews feed into crossbow strings and **Masterwork / Apex Sinew** demand from Havenhythe ranged armour.
 * **Rate:** ~1,500–1,800 sinews/hr ≈ **~2.2M – 2.7M GP/hr**. Margins are thinner than the Havenhythe launch spike (sinews briefly hit 6–7k).
@@ -150,13 +150,13 @@ Once you have some starter GP, these processing methods scale your income dramat
 
 ### 2. Fletching Onyx Bolts (~9.6M GP/hour GE, ~45M+ GP/hour via High Alch)
 * **Requirements:** Level 73 Fletching
-* **Current prices:** Onyx Bolt Tips ~**7,713** + Rune Bolts ~**155** → Onyx Bolts ~**6,768** GE | High Alch **8,179**.
+* **Current prices:** Onyx Bolt Tips ~**7,763** + Rune Bolts ~**155** → Onyx Bolts ~**6,768** GE | High Alch **8,179**.
 * **Method:**
   1. Buy Rune Bolts + Onyx Bolt Tips on the GE.
   2. Join World 84. Use a **Portable Fletcher**. Equip **Fletching Cape** + **Brooch of the Gods**. Ranger's Workroom T2 helps.
   3. Attach tips to bolts. Passive buffs (cape, brooch, portable, workroom) create extra bolts beyond materials consumed.
   4. **Prefer High Alch** right now — GE guide price sits below alch value. Use an **Auto-Alchemiser Mk II** to automate, or alch manually.
-* **Wiki GE rate:** ~**9.6M GP/hr** after tax (with extras). Alching the same output is far higher (~45M+ depending on extras and speed).
+* **Wiki GE rate:** ~**8.6M GP/hr** after tax (with extras). Alching the same output is far higher (~45M+ depending on extras and speed).
 * **Buy Limit Warning:** Onyx Bolt Tips and Rune Bolts are 10k each / 4 hours. Slow-buy in advance.
 * **2026 Note:** July's Fletching re-tier may change level requirements — monitor patch notes. Always re-check whether GE or alch is better before bulk buying.
 
@@ -233,25 +233,25 @@ Once you have some starter GP, these processing methods scale your income dramat
 
 ---
 
-## 📊 Price Snapshot — July 9, 2026
+## 📊 Price Snapshot — July 10, 2026
 
 Quick reference for items cited in this guide (wiki GE guide prices):
 
 | Item | GE Price |
 |---|---|
 | Cowhide | 656 |
-| Raw beef | 944 |
+| Raw beef | 948 |
 | Sinew | 2479 |
 | Cabbage | 1417 |
-| Impious ashes | 1818 |
-| Third Age iron | 2483 |
+| Impious ashes | 1834 |
+| Third Age iron | 2494 |
 | Zarosian insignia | 4591 |
-| Clay / Soft clay | 1,014 / 1,462 |
-| Green / Blue / Black dragonhide | 587 / 966 / 1,654 |
-| Green / Blue / Black dragon leather | 798 / 1,219 / 2,031 |
+| Clay / Soft clay | 1,014 / 1,415 |
+| Green / Blue / Black dragonhide | 587 / 930 / 1,671 |
+| Green / Blue / Black dragon leather | 798 / 1,219 / 2,036 |
 | Molten glass / Bomb vial | 434 / 1,849 |
 | Impure essence | 138 |
-| Spirit / Bone / Flesh / Miasma rune | 46 / 356 / 555 / 525 |
-| Onyx bolt tips / Onyx bolts | 7,713 / 6,768 |
+| Spirit / Bone / Flesh / Miasma rune | 45 / 367 / 575 / 525 |
+| Onyx bolt tips / Onyx bolts | 7,763 / 6,768 |
 | Starbloom flower / thread / cloth | 15,489 / 13,684 / 46,098 |
 | Apex sinew / Apex leather | 5,578 / 31,403 |
