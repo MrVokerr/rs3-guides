@@ -1,5 +1,5 @@
 # 🪙 RS3 Fresh Account Money Making Guide (July 2026)
-> Last updated: **July 11, 2026** | Prices verified against [RS Wiki GE data](https://runescape.wiki/w/Module:GEPrices/data.json) and [Money making guide](https://runescape.wiki/w/Money_making_guide) rates.
+> Last updated: **July 12, 2026** | Prices verified against [RS Wiki GE data](https://runescape.wiki/w/Module:GEPrices/data.json) and [Money making guide](https://runescape.wiki/w/Money_making_guide) rates.
 
 ---
 
@@ -35,13 +35,13 @@ These methods require no stats, no starting capital, and work in Free-to-Play.
 * **Location:** Burthorpe / Taverley cow pen (north of the Taverley lodestone — NOT Lumbridge).
 * **Why Burthorpe?** The gnome banker is significantly closer than Lumbridge's cow pen.
 * **Collect:** Cowhides (~688 GP) + Raw Beef (~941 GP). Bones (~190 GP) are optional — burying them frees inventory for more hides/beef.
-* **Wiki rate:** ~540 kills/hr ≈ **~964k GP/hr** after tax. after tax. after tax. after tax. after tax. after tax.
+* **Wiki rate:** ~540 kills/hr ≈ **~964k GP/hr** after tax. after tax. after tax. after tax. after tax. after tax. after tax.
 * **Bonus:** Raw Beef can later be cooked into Sinews for more profit (see Phase 2).
 
 ### 2. Draynor Cabbage Picking (~1.5M GP/hour)
 * **Location:** Cabbage field south of the Draynor Village farming patch.
 * **Method:** Harvest cabbages (~1,426 GP each), bank at Draynor (F2P) or use Explorer's Ring cabbage-port + War's Retreat bank (members, faster).
-* **Wiki rate:** ~1,100 cabbages/hr ≈ **~1.5M GP/hr** after tax. after tax. after tax. after tax. after tax. after tax. Consistent demand from Player-Owned Farms and questing.
+* **Wiki rate:** ~1,100 cabbages/hr ≈ **~1.5M GP/hr** after tax. after tax. after tax. after tax. after tax. after tax. after tax. Consistent demand from Player-Owned Farms and questing.
 
 ### 3. Spell Wisps at Wizard's Tower (~1M – 1.2M GP/hour)
 * **Location:** Outside the Wizard's Tower (south of Draynor Village).
@@ -71,7 +71,7 @@ Once you have some starter GP, these processing methods scale your income dramat
 ### 1. Tanning Dragonhides (~7.2M – ~19M GP/hour)
 * **Requirements:** Level 1 Crafting (any hide type works)
 * **Intensity:** High click rate (most profitable active method at low levels)
-* **Current margins (July 11, 2026):**
+* **Current margins (July 12, 2026):**
 
 | Hide | Hide Price | Leather Price | Profit/ea (after tax + tan fee) | ~40k/hr | ~60k/hr |
 |---|---|---|---|---|---|
@@ -233,7 +233,7 @@ Once you have some starter GP, these processing methods scale your income dramat
 
 ---
 
-## 📊 Price Snapshot — July 11, 2026
+## 📊 Price Snapshot — July 12, 2026
 
 Quick reference for items cited in this guide (wiki GE guide prices):
 
