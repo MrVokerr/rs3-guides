@@ -1,5 +1,5 @@
 # 🪙 RS3 Fresh Account Money Making Guide (July 2026)
-> Last updated: **July 18, 2026** | Prices verified against [RS Wiki GE data](https://runescape.wiki/w/Module:GEPrices/data.json) and [Money making guide](https://runescape.wiki/w/Money_making_guide) rates.
+> Last updated: **July 19, 2026** | Prices verified against [RS Wiki GE data](https://runescape.wiki/w/Module:GEPrices/data.json) and [Money making guide](https://runescape.wiki/w/Money_making_guide) rates.
 
 ---
 
@@ -31,33 +31,33 @@ The RS3 economy shifted massively in early-to-mid 2026. Before diving into metho
 
 These methods require no stats, no starting capital, and work in Free-to-Play.
 
-### 1. Slaying Cows in Burthorpe (~984k GP/hour)
+### 1. Slaying Cows in Burthorpe (~974k GP/hour)
 * **Location:** Burthorpe / Taverley cow pen (north of the Taverley lodestone — NOT Lumbridge).
 * **Why Burthorpe?** The gnome banker is significantly closer than Lumbridge's cow pen.
-* **Collect:** Cowhides (~700 GP) + Raw Beef (~1,003 GP). Bones (~156 GP) are optional — burying them frees inventory for more hides/beef.
-* **Wiki rate:** ~540 kills/hr ≈ **~984k GP/hr** after tax. after tax. after tax. after tax. after tax. after tax. after tax. after tax. after tax. after tax. after tax. after tax. after tax.
+* **Collect:** Cowhides (~700 GP) + Raw Beef (~990 GP). Bones (~149 GP) are optional — burying them frees inventory for more hides/beef.
+* **Wiki rate:** ~540 kills/hr ≈ **~974k GP/hr** after tax. after tax. after tax. after tax. after tax. after tax. after tax. after tax. after tax. after tax. after tax. after tax. after tax. after tax.
 * **Bonus:** Raw Beef can later be cooked into Sinews for more profit (see Phase 2).
 
 ### 2. Draynor Cabbage Picking (~1.5M GP/hour)
 * **Location:** Cabbage field south of the Draynor Village farming patch.
 * **Method:** Harvest cabbages (~1,433 GP each), bank at Draynor (F2P) or use Explorer's Ring cabbage-port + War's Retreat bank (members, faster).
-* **Wiki rate:** ~1,100 cabbages/hr ≈ **~1.5M GP/hr** after tax. after tax. after tax. after tax. after tax. after tax. after tax. after tax. after tax. after tax. after tax. after tax. after tax. Consistent demand from Player-Owned Farms and questing.
+* **Wiki rate:** ~1,100 cabbages/hr ≈ **~1.5M GP/hr** after tax. after tax. after tax. after tax. after tax. after tax. after tax. after tax. after tax. after tax. after tax. after tax. after tax. after tax. Consistent demand from Player-Owned Farms and questing.
 
 ### 3. Spell Wisps at Wizard's Tower (~1M – 1.2M GP/hour)
 * **Location:** Outside the Wizard's Tower (south of Draynor Village).
-* **Method:** Kill Spell Wisps. Guaranteed drop: **Impious Ashes** (~1,863 GP each).
+* **Method:** Kill Spell Wisps. Guaranteed drop: **Impious Ashes** (~1,911 GP each).
 * **Banking:** Use the deposit NPC standing outside the tower — no walking back to Draynor needed.
 * **Note:** Ash prices fluctuate; always check the live GE price before committing a long session.
 
 ### 4. Archaeology Material Farming (F2P, Capped at Level 20)
 * **Location:** Kharid-et digsite.
-* **Method:** Excavate low-level spots. Collect materials such as **Third Age Iron** (~2,531 GP), **Goldrune** (~2,381 GP), **Samite Silk** (~2,127 GP), and **Zarosian Insignia** (~4,927 GP). Fully AFK — just click and wait.
+* **Method:** Excavate low-level spots. Collect materials such as **Third Age Iron** (~2,526 GP), **Goldrune** (~2,381 GP), **Samite Silk** (~2,127 GP), and **Zarosian Insignia** (~4,852 GP). Fully AFK — just click and wait.
 * **Banking:** Use the bank chest at the top of the digsite.
 * **Note:** Material prices cooled from the Combat Modernisation launch spike earlier in 2026, but this remains solid passive income.
 
 ### 5. Mining Clay (F2P, Better Than Gem Rocks)
 * **Location:** Burthorpe mines (southwest of the bank).
-* **Method:** Mine clay (~1,014 GP) and sell on the GE. Equip a **Bracelet of Clay** to automatically soften it into soft clay (~1,281 GP) for higher value.
+* **Method:** Mine clay (~1,014 GP) and sell on the GE. Equip a **Bracelet of Clay** to automatically soften it into soft clay (~1,270 GP) for higher value.
 * **Wiki rate:** ~940 clay/hr ≈ **~934k GP/hr**; with bracelets ≈ **~1.3M GP/hr**.
 * **Why not Gem Rocks?** Gem rocks have a 1min 25s respawn timer shared with other players. Clay is faster and more consistent.
 * **P2P upgrade:** Soft clay in Prifddinas (Ithell, 75 Mining + Plague's End) is ~**4.2M GP/hr** — revisit once unlocked.
@@ -68,16 +68,16 @@ These methods require no stats, no starting capital, and work in Free-to-Play.
 
 Once you have some starter GP, these processing methods scale your income dramatically.
 
-### 1. Tanning Dragonhides (~7.9M – ~15M GP/hour)
+### 1. Tanning Dragonhides (~7.9M – ~16M GP/hour)
 * **Requirements:** Level 1 Crafting (any hide type works)
 * **Intensity:** High click rate (most profitable active method at low levels)
-* **Current margins (July 18, 2026):**
+* **Current margins (July 19, 2026):**
 
 | Hide | Hide Price | Leather Price | Profit/ea (after tax + tan fee) | ~40k/hr | ~60k/hr |
 |---|---|---|---|---|---|
 | Green | 580 | 814 | ~198 | ~7.9M | ~12M |
-| Blue | 925 | 1,181 | ~212 | ~8.5M | ~13M |
-| Black | 1,689 | 2,000 | ~251 | ~10M | ~15M |
+| Blue | 921 | 1,181 | ~216 | ~8.7M | ~13M |
+| Black | 1,676 | 2,000 | ~264 | ~11M | ~16M |
 
 * **Method:**
   1. Set up a bank preset: full inventory (28) of dragonhides.
@@ -90,7 +90,7 @@ Once you have some starter GP, these processing methods scale your income dramat
 
 ### 2. Cooking Raw Beef into Sinews (~2M – 2.7M GP/hour)
 * **Requirements:** Level 1 Cooking
-* **Current prices:** Raw Beef ~1,003 GP → Sinew ~**2,657 GP** (~1,601 GP profit after tax).
+* **Current prices:** Raw Beef ~990 GP → Sinew ~**2,657 GP** (~1,614 GP profit after tax).
 * **Method:** Buy raw beef on the GE → use on a range and choose **Make sinew** (not cook). Lumbridge Castle kitchen works well.
 * **Why it works:** Sinews feed into crossbow strings and **Masterwork / Apex Sinew** demand from Havenhythe ranged armour.
 * **Rate:** ~1,500–1,800 sinews/hr ≈ **~2.4M – 2.9M GP/hr**. Margins are thinner than the Havenhythe launch spike (sinews briefly hit 6–7k).
@@ -98,10 +98,10 @@ Once you have some starter GP, these processing methods scale your income dramat
 
 ### 3. Molten Glass → Bomb Vials (~2.6M GP/hour + Crafting XP)
 * **Requirements:** Level 54 Crafting (Bomb Vials) | Level 1 Crafting (Beer Glasses — **low profit**, skip)
-* **Current prices:** Molten Glass ~411 GP → Bomb Vial ~**1,851 GP** (~1,403 GP profit after tax).
+* **Current prices:** Molten Glass ~403 GP → Bomb Vial ~**1,851 GP** (~1,411 GP profit after tax).
 * **Wiki rate:** ~1,830 vials/hr ≈ **~2.6M GP/hr**.
 * **Why Bomb Vials?** Permanently consumed in endgame PvM (Vulnerability Bombs, etc.) — stable demand.
-* **Note:** Beer Glasses (~601 GP) only clear ~178 GP each after tax — not worth it as a primary method.
+* **Note:** Beer Glasses (~601 GP) only clear ~186 GP each after tax — not worth it as a primary method.
 
 ### 4. Incense Sticks (~5.8M – ~11M GP/hour)
 * **Requirements:** Level 35–75 Firemaking (varies by stick type)
@@ -124,7 +124,7 @@ Once you have some starter GP, these processing methods scale your income dramat
 * **Requirements:** Level 40 Construction (complete the **New Foundations** quest for instant Level 40 + unlocks). Higher planks need higher Construction (Magic 80, Elder 90).
 * **GP Rate:** ~**2M – 5.3M GP/hour** depending on plank tier (market-dependent).
 * **Current wiki highlights:** Refined Magic planks ~**4.6M** | Refined Elder planks ~**5.3M**. Lower tiers (Willow/Maple) land closer to ~2–3M/hr.
-* **Method:** Buy planks on the GE → process into Refined Planks at the Fort Forinthry sawmill (4 planks → 1 refined) → optionally process further into Wooden Frames (~24.2k each).
+* **Method:** Buy planks on the GE → process into Refined Planks at the Fort Forinthry sawmill (4 planks → 1 refined) → optionally process further into Wooden Frames (~24.1k each).
 * **Strategy:** Stockpile frames *before* Double XP events, then slow-sell them for peak prices.
 
 ---
@@ -132,7 +132,7 @@ Once you have some starter GP, these processing methods scale your income dramat
 ## 🔵 Phase 3: Mid-to-High Level Methods (P2P)
 
 ### 1. Necrotic Rune Crafting (~36M – ~52M GP/hour optimised) ⭐ TOP METHOD
-* **Requirements:** Runecrafting (110+ for best multipliers), Impure Essence (~135 GP), Rune Mythos quest
+* **Requirements:** Runecrafting (110+ for best multipliers), Impure Essence (~131 GP), Rune Mythos quest
 * **Method:** Craft Spirit, Bone, Flesh, or Miasma necrotic runes at the Necromantic Rune Temple altars. Use an **Abyssal Titan** familiar for extra essence capacity.
 * **Current wiki rates (full setup — pouches, ethereal outfit, powerbursts, Passing Bracelet, etc.):**
 
@@ -150,7 +150,7 @@ Once you have some starter GP, these processing methods scale your income dramat
 
 ### 2. Fletching Onyx Bolts (~9.6M GP/hour GE, ~45M+ GP/hour via High Alch)
 * **Requirements:** Level 73 Fletching
-* **Current prices:** Onyx Bolt Tips ~**7,913** + Rune Bolts ~**166** → Onyx Bolts ~**6,683** GE | High Alch **8,179**.
+* **Current prices:** Onyx Bolt Tips ~**7,784** + Rune Bolts ~**170** → Onyx Bolts ~**6,683** GE | High Alch **8,179**.
 * **Method:**
   1. Buy Rune Bolts + Onyx Bolt Tips on the GE.
   2. Join World 84. Use a **Portable Fletcher**. Equip **Fletching Cape** + **Brooch of the Gods**. Ranger's Workroom T2 helps.
@@ -160,13 +160,13 @@ Once you have some starter GP, these processing methods scale your income dramat
 * **Buy Limit Warning:** Onyx Bolt Tips and Rune Bolts are 10k each / 4 hours. Slow-buy in advance.
 * **2026 Note:** July's Fletching re-tier may change level requirements — monitor patch notes. Always re-check whether GE or alch is better before bulk buying.
 
-### 3. Spinning Starbloom Flowers into Cloth (~8.8M GP/hour, Fully AFK)
+### 3. Spinning Starbloom Flowers into Cloth (~8.9M GP/hour, Fully AFK)
 * **Requirements:** Level 100 Crafting
-* **Current prices:** Starbloom Flower ~**15,733** | Starbloom Thread ~**13,684** | Starbloom Cloth ~**46,883**.
+* **Current prices:** Starbloom Flower ~**15,645** | Starbloom Thread ~**13,684** | Starbloom Cloth ~**46,883**.
 * **Method (recommended):**
   1. Buy Starbloom Flowers → spin into **Starbloom Thread** at a spinning wheel (Fort Forinthry Ranger's Workroom, next to bank).
   2. Weave threads into **Starbloom Cloth** at a loom (2 threads = 1 cloth).
-  3. Sell cloth. Wiki rate: 1,210 flowers → 605 cloth/hr ≈ **~8.8M GP/hr** after tax.
+  3. Sell cloth. Wiki rate: 1,210 flowers → 605 cloth/hr ≈ **~8.9M GP/hr** after tax.
 * **Important:** Spinning flowers into thread and selling the **thread** currently **loses money** (thread GE price is below flower price). Always finish into cloth.
 * **Buy-limit tip:** Thread has almost no GE volume even though it looks cheap — buy flowers, not thread.
 * **2026 Note:** Margins have tightened since introduction. Re-check flower vs cloth prices before bulk buying.
@@ -233,25 +233,25 @@ Once you have some starter GP, these processing methods scale your income dramat
 
 ---
 
-## 📊 Price Snapshot — July 18, 2026
+## 📊 Price Snapshot — July 19, 2026
 
 Quick reference for items cited in this guide (wiki GE guide prices):
 
 | Item | GE Price |
 |---|---|
 | Cowhide | 700 |
-| Raw beef | 1003 |
+| Raw beef | 990 |
 | Sinew | 2657 |
 | Cabbage | 1433 |
-| Impious ashes | 1863 |
-| Third Age iron | 2531 |
-| Zarosian insignia | 4927 |
-| Clay / Soft clay | 1,014 / 1,281 |
-| Green / Blue / Black dragonhide | 580 / 925 / 1,689 |
+| Impious ashes | 1911 |
+| Third Age iron | 2526 |
+| Zarosian insignia | 4852 |
+| Clay / Soft clay | 1,014 / 1,270 |
+| Green / Blue / Black dragonhide | 580 / 921 / 1,676 |
 | Green / Blue / Black dragon leather | 814 / 1,181 / 2,000 |
-| Molten glass / Bomb vial | 411 / 1,851 |
-| Impure essence | 135 |
-| Spirit / Bone / Flesh / Miasma rune | 55 / 401 / 580 / 517 |
-| Onyx bolt tips / Onyx bolts | 7,913 / 6,683 |
-| Starbloom flower / thread / cloth | 15,733 / 13,684 / 46,883 |
+| Molten glass / Bomb vial | 403 / 1,851 |
+| Impure essence | 131 |
+| Spirit / Bone / Flesh / Miasma rune | 57 / 402 / 584 / 517 |
+| Onyx bolt tips / Onyx bolts | 7,784 / 6,683 |
+| Starbloom flower / thread / cloth | 15,645 / 13,684 / 46,883 |
 | Apex sinew / Apex leather | 5,848 / 31,641 |
